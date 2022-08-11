@@ -2,3 +2,5 @@ server:
   port: ${PORT:9999}
 
 message: Consumer configuration server is alive for DEV!
+
+billetera: 10,20,150,200
