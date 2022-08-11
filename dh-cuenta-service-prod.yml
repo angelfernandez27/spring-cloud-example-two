@@ -1,4 +1,4 @@
 server:
-  port: ${PORT:9998}
+  port: ${PORT:8889}
 
-message: Consumer configuration server is alive for PROD!
+message: Consumer configuration server is alive for PRD!
